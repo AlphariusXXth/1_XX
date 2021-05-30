@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+The Future is Now
 ---
 
-I'm glad you are here. I plan to talk about ...
+Greetings net citizen and welcome to my world. 
