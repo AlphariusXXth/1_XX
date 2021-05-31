@@ -1,3 +1,4 @@
-War is Peace 
-
-In a world full of lies, the most truthfull statesment become full of doubt. 
+--- 
+title: War is Peace 
+date: 2021-05-31 
+---
